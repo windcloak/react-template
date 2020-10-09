@@ -1,3 +1,25 @@
+## React Template
+
+This is a React template. I've included some basic libraries and have SCSS set for styling. 
+
+# Standard Third-Party Libraries
+
+- react-router-dom
+- axios
+- Jquery
+- popperjs/core
+- react-bootstrap
+- bootstrap
+- fontawesome-free
+
+I have imported specific parts from Bootstrap as opposed to the whole library. It will be easy to change one variable.
+
+Template was made in React 16.13.1
+
+# npm
+
+Run `npm install`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
