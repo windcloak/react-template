@@ -18,7 +18,7 @@ Template was made in React 16.13.1
 
 # Preview
 
-<img src="assets/preview.png">
+<img src="src/assets/preview.png">
 
 # npm
 

@@ -1,5 +1,7 @@
 import React from 'react';
 // import React, { useEffect, useState } from 'react';
+
+// import './Home.scss';
 import { Button } from 'react-bootstrap';
 
 function Home() {
