@@ -20,6 +20,9 @@ Template was made in React 16.13.1
 
 <img src="src/assets/preview.png">
 
+# How to Use
+Click `Use this Template` button to generate a new repo with this one as the template.
+
 # npm
 
 Run `npm install`
