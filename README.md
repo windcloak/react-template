@@ -16,6 +16,10 @@ I have imported specific parts from Bootstrap as opposed to the whole library. I
 
 Template was made in React 16.13.1
 
+# Preview
+
+<img src="assets/preview.png">
+
 # npm
 
 Run `npm install`
